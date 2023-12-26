@@ -30,4 +30,5 @@ DEFAULT_PAGINATION = 3
 RELATIVE_URLS = True
 
 THEME = "themes/monospace"
+
 UMAMI_WEBSITE_ID = ""
